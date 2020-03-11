@@ -12,8 +12,8 @@ export function Jumbotron() {
 				</p>
 				<hr className="my-4" />
 				<p>
-					It uses utility classes for typography and spacing to spaceaudiS
-					content out within the larger container.
+					It uses utility classes for typography and spacing to
+					spaceaudiS content out within the larger container.
 				</p>
 				<a className="btn btn-primary btn-lg" href="#" role="button">
 					Learn more

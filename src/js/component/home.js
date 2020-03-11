@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar } from "./navbar";
-import { Cards  } from "./cards";
-
+import { Cards } from "./cards";
+import { Jumbotron } from "./jumboton";
 let va = [
 	"https://s.abcnews.com/images/US/subway-1-gty-file-ml-190524_hpMain_4x3_992.jpg",
 	"https://www.nycgo.com/images/venues/1179/yankeestadiumsubway_kateglicksberg_0054__x_large.jpg",
