@@ -1,4 +1,24 @@
-https://i.pinimg.com/474x/97/1c/22/971c2282a34ef7351eac07016a7a2b0b.jpg
-https://i.redd.it/h677ldhjmbp31.jpg
-https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SY550_.jpg
-https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg
+import React from "react";
+
+export function Jumbotron() {
+	return (
+		<>
+			<div className="jumbotron">
+				<h1 className="display-4">Hello, world!</h1>
+				<p className="lead">
+					This is a simple hero unit, a simple jumbotron-style
+					component for calling extra attention to featured content or
+					information.
+				</p>
+				<hr className="my-4" />
+				<p>
+					It uses utility classes for typography and spacing to space
+					content out within the larger container.
+				</p>
+				<a className="btn btn-primary btn-lg" href="#" role="button">
+					Learn more
+				</a>
+			</div>
+		</>
+	);
+}

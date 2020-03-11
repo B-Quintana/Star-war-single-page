@@ -2,12 +2,16 @@ import React from "react";
 import { Navbar } from "./navbar";
 import { Card } from "./card";
 
-//include images into your bundle
-// https://i.pinimg.com/474x/97/1c/22/971c2282a34ef7351eac07016a7a2b0b.jpg
-// https://i.redd.it/h677ldhjmbp31.jpg
-// https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SY550_.jpg
-// https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg
-//create your first component
+            let va=[
+            "https://s.abcnews.com/images/US/subway-1-gty-file-ml-190524_hpMain_4x3_992.jpg",
+          "https://www.nycgo.com/images/venues/1179/yankeestadiumsubway_kateglicksberg_0054__x_large.jpg",
+          "https://media.nbcnewyork.com/2019/09/tlmd_7_train_nyc.jpg?fit=650%2C366",
+          "https://s3-prod.crainsnewyork.com/s3fs-public/BLOGS04_160519867_AR_-1_STFYVAUTRXQG.jpg",
+          "https://brooklynreporter.com/wp-content/uploads/2015/07/IMG_7431-624x416.jpg"
+];          
+
+
+// create your first component
 
 export function Home() {
 	return (
