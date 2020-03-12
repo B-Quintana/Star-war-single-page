@@ -11,8 +11,8 @@ export function Cards(props) {
 				style={{ height: "300px", width: "auto", maxWidth: "300px" }}
 			/>
 			<div className="card-body">
-				<h5 className="Top Ladies">Top Ladies</h5>
-				<p className="card-text">Top Ladies</p>
+				<h5 className="NYC Trains">NYC Trains</h5>
+				<p className="card-text">NYC Trains</p>
 				<a href="#" className="btn btn-primary">
 					Go Somewhere
 				</a>

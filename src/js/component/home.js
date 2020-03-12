@@ -7,7 +7,8 @@ let va = [
 	"https://www.nycgo.com/images/venues/1179/yankeestadiumsubway_kateglicksberg_0054__x_large.jpg",
 	"https://media.nbcnewyork.com/2019/09/tlmd_7_train_nyc.jpg?fit=650%2C366",
 	"https://s3-prod.crainsnewyork.com/s3fs-public/BLOGS04_160519867_AR_-1_STFYVAUTRXQG.jpg",
-	"https://brooklynreporter.com/wp-content/uploads/2015/07/IMG_7431-624x416.jpg"
+	"https://brooklynreporter.com/wp-content/uploads/2015/07/IMG_7431-624x416.jpg",
+	"https://i.ytimg.com/vi/b9ndnArkPp8/maxresdefault.jpg"
 ];
 
 export function Home() {
