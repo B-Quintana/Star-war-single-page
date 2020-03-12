@@ -6,20 +6,20 @@ let list = [
   {
     title: 'NYC Train',
     link:  "https://s.abcnews.com/images/US/subway-1-gty-file-ml-190524_hpMain_4x3_992.jpg",
-    description: 'blah blah',
+    description: "Inwoods",
     imgUrl: "https://s.abcnews.com/images/US/subway-1-gty-file-ml-190524_hpMain_4x3_992.jpg"
   },
   {
     title: 'Cool Train',
-    link: 'https://eeeeeee.com',
+    link:   "https://s3-prod.crainsnewyork.com/s3fs-public/BLOGS04_160519867_AR_-1_STFYVAUTRXQG.jpg",
     description: 'This train was created in 1919',
-    imgUrl: 'https://sdfsdf.com'
+    imgUrl: "https://s3-prod.crainsnewyork.com/s3fs-public/BLOGS04_160519867_AR_-1_STFYVAUTRXQG.jpg"
   },
   {
     title: 'White Bullter Train',
-    link: 'https://aaaaaf.com',
+    link:  "https://upload.wikimedia.org/wikipedia/commons/7/70/Miami_Metrorail_Hitachi_train_20190117.jpg",
     description: 'Fast train',
-    imgUrl: 'https://sdfsdf.com'
+    imgUrl:  "https://upload.wikimedia.org/wikipedia/commons/7/70/Miami_Metrorail_Hitachi_train_20190117.jpg"
   }
 ]
 
