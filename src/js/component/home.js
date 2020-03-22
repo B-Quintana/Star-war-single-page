@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar } from "./navbar";
 import { Cards } from "./cards";
-import { Jumbotron } from "./jumboton";
+import { Jumbotron } from "./jumbotron";
 let list = [
   {
     title: 'NYC Train',
