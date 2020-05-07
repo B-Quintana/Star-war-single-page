@@ -2,7 +2,7 @@ import React from "react";
 import { Navbar } from "./navbar";
 import { Cards } from "./cards";
 import { Jumbotron } from "./jumbotron";
-let  va = [
+let va = [
 	{
 		title: "NYC Train",
 		link:

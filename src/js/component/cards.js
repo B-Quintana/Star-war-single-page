@@ -5,7 +5,10 @@ export function Cards(props) {
 	return (
 		<div className="m-3 text-center" style={{ width: "300px" }}>
 			<img
-				src={props.myimage}
+				src= {props.myimage.title};
+                      {props.myimage.link};
+                    {props.myimage.description};
+                       {props.myimage.imgUrl}
 				className="card-img-top"
 				alt="Card image cap"
 				style={{ height: "300px", width: "auto", maxWidth: "300px" }}
