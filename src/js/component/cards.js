@@ -12,14 +12,14 @@ export function Cards(props) {
 			/>
 			<div className="card-body">
 				<h5 classNamegi="NYC">NYC</h5>
-				<p className="card-text">{props.myimage.title}
+				<p className="card-text">{props.myimage.title}></p>
 				
-				<p className={props.myimage.description}
-				<a href="#" className={props.myimage.link}
+				<p className={props.myimage.description}></p>
+				<a href="#" className={props.myimage.link}>
 					Go Somewhere
 				</a>
 			</div>
-		</div>
+		</div> 
 	);
 }
 
